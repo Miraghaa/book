@@ -10,7 +10,7 @@ Console.WriteLine("2.Create book");
 
 string informationbook=Console.ReadLine();
 
-while(informationbook != null)
+while(informationbook != 0)
 {
     switch(informationbook)
     {
